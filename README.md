@@ -1,5 +1,5 @@
 # Simple-Blockchain.com-Data-Webscraper
-Developed by @mouryavulupala to grab active BTC account data from [BLOCKCHAIN.com explorer](https://blockchain.com/explorer)
+Developed by @mouryavulupala to grab active BTC account data from blockchain.
 
 ----------------------------------------------------------------
 
